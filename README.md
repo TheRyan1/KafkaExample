@@ -5,3 +5,4 @@
   - Create a new topic
   - Change the topic name in the console applications
 ### Run the C# projects
+  - Enter a message in the producer terminal
